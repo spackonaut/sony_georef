@@ -1,5 +1,5 @@
 # sony_georef
-Extract Gps information and generate speed subtitles for Sony actioncameras
+Extract Gps information and generate speed subtitles for Sony action cameras (HDR-AZ1, HDR-AS100 and others)
 
 ## Dependencies
 - dateutils: http://www.fresse.org/dateutils/
